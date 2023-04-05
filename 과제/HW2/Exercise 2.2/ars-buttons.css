@@ -1,0 +1,16 @@
+.numbers > .number {
+    background-color: lightcoral;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.numbers {
+    margin: 20px 0px;
+    text-align: center;
+}
